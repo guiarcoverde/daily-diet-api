@@ -1,5 +1,5 @@
 # Sobre o Projeto
-Esta API oferece funcionalidades para gerenciar refeições diárias e acompanhar hábitos alimentares. Permite aos usuários criar uma conta, registrar refeições, visualizar estatísticas e muito mais. O código está implementado em TypeScript, com testes automatizados abrangentes para garantir confiabilidade. O projeto foi desenvolvido com o intuito de se desafiar e aprofundar os conhecimentos em TypeScript. A utilização de cookies para identificação de sessão proporciona uma experiência segura e amigável ao usuário.
+Esta API oferece funcionalidades para gerenciar refeições diárias e acompanhar hábitos alimentares. Permite aos usuários criar uma conta, registrar refeições, visualizar estatísticas e muito mais. O código está implementado em TypeScript, com testes automatizados abrangentes para garantir confiabilidade. O projeto foi desenvolvido com o intuito de desafiar e aprofundar os conhecimentos em TypeScript. A utilização de cookies para identificação de sessão proporciona uma experiência segura e amigável ao usuário.
 
 # Funcionalidades
 ## Gerenciamento de Usuários
@@ -7,7 +7,7 @@ Esta API oferece funcionalidades para gerenciar refeições diárias e acompanha
 
 - Identificação do Usuário: Os usuários são identificados por meio de cookies de sessão para solicitações contínuas.
 
-# Registro de Refeições
+## Registro de Refeições
 - Registrar Refeição: Registrar uma refeição com os seguintes detalhes:
   - Associação com o usuário
   - Nome
